@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LightningSpin</string>
+
+    <string name="fb_id">699213388032948</string>
+    <string name="fb_token">c4c7af9bdb97c02ae4044488964ff642</string>
+
+    <string name="secure_get_parametr">xiyzkEqifo</string>
+    <string name="secure_key">C2iwldBjrG</string>
+    <string name="dev_tmz_key">ORqw6JAYpb</string>
+    <string name="gadid_key">EqHzQ070om</string>
+    <string name="deeplink_key">V6JYta2XEt</string>
+    <string name="source_key">ElkELwKEDB</string>
+    <string name="af_id_key">RQGTbcfY9R</string>
+    <string name="adset_id_key">lkGYuzr2Hy</string>
+    <string name="campaign_id_key">itUo0yJvO2</string>
+    <string name="app_campaign_key">DLTur25h7e</string>
+    <string name="adset_key">MflgsjIsVU</string>
+    <string name="adgroup_key">wHmGSxIoAh</string>
+    <string name="orig_cost_key">SwNVc6FOAE</string>
+    <string name="af_siteid_key">fV2kyIcwH7</string>
+
+    <string name="lightning_spin">Lightning Spin</string>
+    <string name="tap">Tap</string>
+    <string name="zero">0</string>
+    <string name="tapped">Tapped:</string>
+    <string name="start">Start</string>
+</resources>

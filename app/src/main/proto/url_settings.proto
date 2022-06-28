@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.mobirate.rovercraft.gpla";
+option java_multiple_files = true;
+
+message UrlSettings {
+    string url = 1;
+    string apps_id = 2;
+    string one_signal_id = 3;
+    bool isSaved = 4;
+}
